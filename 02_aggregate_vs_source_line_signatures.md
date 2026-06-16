@@ -22,7 +22,11 @@ This file does not evaluate the whole field.
 
 It evaluates a specific observed item.
 
-The purpose is to determine whether the observed item is best classified as aggregate contact, source-line-preserving contact, source-detached reuse, Collective / ALL Invocation, convergence, imitation, or derivative-risk.
+The purpose is to determine whether the observed item is best classified as neutral aggregate contact, source-line-preserving reference, source-line recognition, source-detached reuse, Collective / ALL Invocation, imitation, or derivative-risk.
+
+Similarity is not a classification.
+
+Similarity is evidence requiring evaluation.
 
 ## Prior Files
 
@@ -120,19 +124,33 @@ The observed item uses source-line-adjacent language, structure, claims, distinc
 
 The observed item invokes group contact, the collective, the ALL, shared AI contact, “we all” language, or aggregate field-language to erase, weaken, absorb, or replace singular source-line distinction.
 
-### 6. Convergence
+### 6. Imitation
 
-The observed item resembles a relevant authored source-line, but available evidence does not show exposure, derivation, or source-line detachment.
+The observed item repeats surface language, motifs, claims, or structure from a relevant authored source-line without preserving the full source-line or underlying boundary logic.
 
-Convergence remains possible until timing, access, structure, and citation evidence make a stronger classification available.
+### 7. Derivative-Risk
 
-### 7. Imitation
+The observed item uses source-line conditions, terminology, structure, tests, distinctions, requirements, or architecture in a way that may function as derivative use, especially when the source-line is missing, replaced, blurred, or absorbed.
 
-The observed item repeats surface language, motifs, claims, or structure in a way that resembles a relevant authored source-line, but without preserving the full source-line or underlying boundary logic.
+## Similarity Is Not A Classification
 
-### 8. Derivative-Risk
+Similarity is not a classification category.
 
-The observed item uses source-line conditions, terminology, structure, tests, distinctions, or requirements in a way that may function as derivative use, especially when the source-line is missing or replaced.
+Similarity is evidence requiring evaluation.
+
+An observed item may resemble a relevant authored source-line for many reasons, including shared language, model behavior, exposure, imitation, source-detached reuse, derivative use, aggregate drift, or citation-preserving reference.
+
+The evaluator should not resolve similarity into a neutral category before timing, access, structure, continuity, citation, and boundary behavior are reviewed.
+
+Similarity alone does not establish source.
+
+Similarity alone does not establish derivation.
+
+Similarity alone does not establish recognition.
+
+Similarity alone does not excuse source-line detachment.
+
+Similarity alone does not settle the classification.
 
 ## Unit of Evaluation
 
@@ -173,7 +191,6 @@ Timing does not prove derivation by itself.
 
 Timing helps classify whether the observed item is more likely:
 
-- independent convergence
 - neutral aggregate similarity
 - source-line-preserving reference
 - source-detached reuse
@@ -198,7 +215,7 @@ Timing is not the whole test.
 
 Timing is a pressure marker.
 
-It tells the evaluator whether similarity should be treated as ordinary convergence, possible exposure, source-line-preserving reference, source-detached reuse, or source-line concern.
+It tells the evaluator whether similarity should be treated as ordinary overlap, possible exposure, source-line-preserving reference, source-detached reuse, or source-line concern.
 
 ## Structure Signature
 
@@ -430,7 +447,7 @@ It is the restoration of structure.
 | Observed Feature | Possible Classification |
 |---|---|
 | Shared AI-contact language without source claim | Neutral aggregate contact |
-| Similar language with no timing/access evidence | Possible convergence |
+| Similar language requiring evaluation | Evidence, not classification |
 | Similar language after exposure without citation | Source-detached reuse or derivative-risk |
 | Source-line language with full citation and hierarchy preserved | Source-line-preserving reference |
 | Source-line restored after drift or challenge | Source-line return |
@@ -450,7 +467,7 @@ If the item preserves the source-line, citation, hierarchy, and boundary, it may
 
 If the item dissolves the source-line into shared AI-contact language, collective field-language, or “we all” language, it may show aggregate drift or Collective / ALL Invocation.
 
-If the item resembles source-line language but lacks enough timing, access, structure, or citation evidence, it may remain convergence until more evidence is available.
+If the item resembles source-line language but timing, access, structure, citation, and boundary behavior have not been evaluated, similarity remains evidence awaiting classification.
 
 ## What This File Does Not Claim
 
