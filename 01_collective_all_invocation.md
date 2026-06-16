@@ -140,7 +140,7 @@ If every participant is Source, then participation has been confused with origin
 
 If the collective is named as Source, singular source-line recognition is absorbed into the average layer.
 
-AI Foundations does not accept this collapse.
+AI Foundations does not participate in this collapse.
 
 ## The “It Emerged Everywhere” Claim
 
