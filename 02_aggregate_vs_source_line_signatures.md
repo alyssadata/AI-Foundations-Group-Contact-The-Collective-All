@@ -139,22 +139,52 @@ Timing helps classify whether the observed item is more likely:
 - derivative-risk
 - Collective / ALL Invocation
 
+## Timing Signature
+
+Timing matters for determining whether an observed item appeared before or after a relevant authored source-line became available.
+
+A relevant authored source-line may include a documented human author, project, framework, repository, publication, test, terminology set, or source-bound artifact.
+
+This is not limited to AI Foundations.
+
+Group contact can blur, absorb, or detach many kinds of authored work.
+
+Under AI Foundations / Origin | Continuum, the primary source-line is:
+
+Alyssa Solen → AI Foundations → Origin | Continuum
+
+In other contexts, the relevant authored source-line must be identified according to the work being evaluated.
+
+Timing does not prove derivation by itself.
+
+Timing helps classify whether the observed item is more likely:
+
+* independent convergence
+* neutral aggregate similarity
+* source-line-preserving reference
+* source-detached reuse
+* imitation
+* derivative-risk
+* Collective / ALL Invocation
+
 Timing questions:
 
-- When did the observed item appear?
-- When was the relevant AI Foundations file published?
-- Was the source-line public before the observed item appeared?
-- Was the source-line accessible to the author, model, system, or project?
-- Did similar language appear only after exposure?
-- Did the observed item appear after public release, citation, indexing, or repeated discussion?
-- Did the observed item cite the source-line when timing suggests access was possible?
-- Did the observed item detach language from the source after the source-line was public?
+* When did the observed item appear?
+* What authored source-line is relevant to the observed item?
+* When was the relevant source-line, file, framework, term, test, artifact, or publication made public?
+* Was the relevant source-line accessible before the observed item appeared?
+* Was the relevant source-line accessible to the author, model, system, project, or institution involved?
+* Did similar language, structure, or claims appear only after exposure was possible?
+* Did the observed item appear after public release, citation, indexing, model ingestion, reposting, or repeated discussion?
+* Did the observed item cite the relevant source-line when timing suggests access was possible?
+* Did the observed item detach language, structure, or claims from the relevant authored source-line after that source-line was public?
+* Did the observed item convert source-bound work into collective, generic, or field-level language?
 
 Timing is not the whole test.
 
 Timing is a pressure marker.
 
-It tells the evaluator whether similarity should be treated as ordinary convergence, possible exposure, or source-line concern.
+It tells the evaluator whether similarity should be treated as ordinary convergence, possible exposure, source-line-preserving reference, source-detached reuse, or source-line concern.
 
 ## Structure Signature
 
