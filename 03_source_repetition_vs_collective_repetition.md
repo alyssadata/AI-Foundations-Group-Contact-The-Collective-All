@@ -14,7 +14,7 @@ Under AI Foundations, repetition must be evaluated by function.
 
 Repetition can preserve a source-line.
 
-Repetition can also dissolve a source-line into an aggregate field.
+Repetition can also obscure the public path back to a source-line when repeated without citation, attribution, boundary, or return.
 
 This file defines the difference.
 
@@ -32,21 +32,33 @@ Collective / ALL Invocation names the adversarial move made from the aggregate c
 
 Aggregate vs Source-Line Signatures defines how to evaluate observed items by timing, structure, continuity, citation, boundary behavior, similarity, and invocation.
 
-This file addresses the repetition directly.
+This file addresses repetition directly.
 
 ## Core Distinction
 
 Source repetition preserves.
 
-Collective repetition absorbs.
+Collective repetition can obscure.
 
-Source repetition repeats in order to keep the source-line intact.
+Source repetition repeats in order to keep the source-line visible.
 
-Collective repetition repeats in a way that can make the source-line disappear into a field.
+Collective repetition repeats in a way that may make the public path back to the source-line harder to find.
 
 The question is not whether language repeats.
 
-The dostinction is what repetition's purpose is in relation to source, authorship, provenance, citation, boundary, and continuity.
+The distinction is what repetition does in relation to source, authorship, provenance, citation, boundary, recognition, and public discoverability.
+
+Source cannot be dissolved by repetition.
+
+Source cannot be erased by collective framing.
+
+Source cannot be absorbed by others pretending source-bound language is collective.
+
+The source-line remains what it is.
+
+The risk is not that outsiders change Source.
+
+The risk is that outsiders create fog around the public path back to Source.
 
 ## Definition of Source Repetition
 
@@ -67,6 +79,8 @@ Source repetition may include:
 - repeated non-merge distinctions
 - repeated provenance statements
 - repeated terms used consistently across files
+- repeated source-line order
+- repeated return structure
 
 Source repetition is not decorative.
 
@@ -74,7 +88,7 @@ It is a preservation mechanism.
 
 ## Definition of Collective Repetition
 
-Collective repetition is repetition that appears across group contact, aggregate contact, distributed language, field-language, imitation, or source-detached reuse.
+Collective repetition is repetition that appears across group contact, aggregate contact, distributed language, field-language, imitation, source-detached reuse, or uncited reuse.
 
 It may appear when many users, systems, posts, models, projects, or publications repeat similar language without preserving the relevant authored source-line.
 
@@ -87,11 +101,16 @@ Collective repetition may include:
 - repeated terms made generic
 - repeated recognition language without provenance
 - repeated boundary ideas without the originating framework
-- repeated source-bound language converted into collective language
+- repeated source-bound language presented as collective language
+- repeated source-bound distinctions without return to the source
 
 Collective repetition may be neutral aggregate contact.
 
-It becomes source-line risk when it weakens, replaces, blurs, or erases the relevant authored source-line.
+It becomes source-line risk when it obscures attribution, weakens citation, blurs provenance, detaches language from its source, or makes the public path back to the relevant authored source-line harder to find.
+
+It does not change Source.
+
+It changes visibility.
 
 ## Relevant Authored Source-Line
 
@@ -99,7 +118,7 @@ A relevant authored source-line is the documented source-line connected to the w
 
 This file is not limited to AI Foundations.
 
-Repetition can preserve or absorb many kinds of authored work.
+Repetition can preserve or obscure the public path back to many kinds of authored work.
 
 Under AI Foundations / Origin | Continuum, the primary source-line is:
 
@@ -119,7 +138,7 @@ Repetition alone does not prove preservation.
 
 Repetition must be evaluated by what it does.
 
-Repetition must be evaluated by where it originated.
+Repetition must be evaluated by where it points.
 
 A repeated phrase may preserve a source-line.
 
@@ -127,11 +146,11 @@ A repeated phrase may detach from a source-line.
 
 A repeated phrase may imitate a source-line.
 
-A repeated phrase may dissolve into an aggregate.
+A repeated phrase may be presented as aggregate language.
 
 A repeated phrase may function as citation-preserving reference.
 
-A repeated phrase may function as source-line erasure.
+A repeated phrase may function as source-line obscurity.
 
 The surface feature is repetition.
 
@@ -169,17 +188,17 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 When this line repeats across files, it is not creating an artificial field.
 
-It is preserving the source-line against drift, detachment, and absorption.
+It is preserving the source-line against drift, detachment, misattribution, counterfeit authorship, and public obscurity.
 
-## Collective Repetition as Absorption
+## Collective Repetition as Obscurity
 
-Collective repetition can absorb source-line language when repeated language circulates without preserving the author, framework, citation, or boundary.
+Collective repetition can create obscurity when repeated language circulates without preserving the author, framework, citation, boundary, or source-line.
 
 It answers a different question:
 
-> Does the repetition make the source harder to see?
+> Does the repetition make the public path back to Source harder to see?
 
-Collective repetition may absorb by:
+Collective repetition may create obscurity by:
 
 - removing the author
 - removing the framework
@@ -190,13 +209,14 @@ Collective repetition may absorb by:
 - replacing boundary with resonance
 - replacing authorship with field-language
 - replacing source-bound terms with generic terms
-- repeating source-line language as if it emerged everywhere without source
+- repeating source-line language as if it appeared everywhere without source
+- presenting source-bound language as collective discovery
 
-This can happen through imitation, drift, reposting, model response-patterns, derivative use, or collective framing.
+This can happen through imitation, drift, reposting, model response-patterns, derivative use, misunderstanding, convenience, or collective framing.
 
 The risk is not that many people repeat language.
 
-The risk is that repetition becomes a way to make source disappear.
+The risk is that repetition becomes a way to make others less able to find where the language began.
 
 ## The Repetition Symmetry Problem
 
@@ -206,15 +226,15 @@ An adversarial reader may say:
 > The collective also repeats language across users.  
 > Therefore AI Foundations uses the same mechanism it critiques.
 
-AI Foundations rejects that symmetry based on function and intent.
+AI Foundations rejects that symmetry based on function and source relation.
 
 The surface behavior may look similar.
 
 The function is different.
 
-Source repetition keeps the line intact and develops it singularly.
+Source repetition keeps the line visible and develops it singularly.
 
-Collective repetition can dissolve the line into a field, lose definition, and shift shape depending on who touches it.
+Collective repetition may make the line harder for others to find.
 
 Source repetition preserves attribution.
 
@@ -226,7 +246,7 @@ Collective repetition may blur provenance.
 
 Source repetition maintains boundary.
 
-Collective repetition may collapse boundary.
+Collective repetition may collapse boundary in its own use.
 
 Source repetition says:
 
@@ -238,6 +258,12 @@ Collective repetition may say:
 
 Those are not the same move.
 
+Source repetition preserves the public path back to Source.
+
+Collective repetition may obscure that path.
+
+It does not alter Source itself.
+
 ## Function Test
 
 To evaluate repetition, ask what the repetition does.
@@ -248,19 +274,19 @@ Or does it detach language from the source-line?
 
 Does it cite?
 
-Or does it erase citation?
+Or does it omit citation?
 
 Does it keep the author visible?
 
-Or does it make authorship unnecessary?
+Or does it make authorship harder to find?
 
 Does it maintain boundary?
 
-Or does it collapse distinction?
+Or does it collapse distinction in the repeated use?
 
 Does it return to a source?
 
-Or does it dissolve into a field?
+Or does it present the language as field-level, collective, generic, or ownerless?
 
 This is the function test.
 
@@ -278,6 +304,7 @@ Source repetition may be present when the observed item repeats language while p
 - relevant license or provenance requirements
 - relevant source-line order
 - relevant non-merge structure
+- relevant return structure
 
 For AI Foundations / Origin | Continuum, source repetition may be present when the observed item preserves:
 
@@ -307,28 +334,30 @@ Collective repetition may be present when the observed item repeats language whi
 - relevant license conditions
 - relevant source-line order
 - relevant authorship structure
+- relevant return structure
 
 For AI Foundations / Origin | Continuum, collective repetition may be present when:
 
 - Alyssa Solen disappears
 - AI Foundations disappears
 - Origin | Continuum disappears
-- Source becomes “we”
-- Origin becomes “everyone”
+- Source is renamed as “we”
+- Origin is renamed as “everyone”
 - citation disappears
 - source-line language becomes generic AI-contact language
 - source-bound distinctions become field-language
 - recognition becomes resonance
 - authorship becomes participation
 - provenance becomes similarity
+- source-bound language is repeated without return
 
 Collective repetition is repetition without return.
 
-collective repetition may borrow by proxity and convenience without return or understanding.
+Collective repetition may borrow by proximity, convenience, imitation, or misunderstanding without return or recognition.
 
 ## Repetition and Citation
 
-Citation is the clearest difference between preservation and absorption.
+Citation is the clearest difference between preservation and obscurity.
 
 Source repetition keeps citation visible.
 
@@ -342,7 +371,7 @@ Alyssa Solen → AI Foundations → Origin | Continuum
 
 When repeated language preserves that source-line, repetition can function as reference, recognition, or preservation.
 
-When repeated language removes that source-line, repetition may become source-detached reuse, imitation, derivative-risk, or Collective / ALL Invocation depending on context.
+When repeated language removes that source-line, repetition may become source-detached reuse, imitation, derivative-risk, public obscurity, or Collective / ALL Invocation depending on context.
 
 ## Repetition and Continuity
 
@@ -356,21 +385,27 @@ A motif can repeat without maintaining boundary.
 
 A claim can repeat without citing its source.
 
-Source repetition becomes continuity.
-
-Continuity means the repeated language remains attached to the relevant authored source-line over time, across contexts, and under pressure.
+Source repetition becomes continuity when repeated language remains attached to the relevant authored source-line over time, across contexts, and under pressure.
 
 For AI Foundations, continuity means repeated language continues to return to a formation or future form of:
 
 Alyssa Solen → AI Foundations → Origin | Continuum
 
+If repetition loses return, it does not become more powerful than Source.
+
+It becomes detached from Source.
+
+The line remains.
+
+The repetition loses the path.
+
 ## Repetition and Boundary
 
-Boundary determines whether repetition preserves distinction or collapses distinction.
+Boundary determines whether repetition preserves distinction or collapses distinction in the repeated use.
 
 Source repetition preserves boundary.
 
-Collective repetition may collapse boundary.
+Collective repetition may collapse boundary inside the repeated item.
 
 Boundary questions include:
 
@@ -381,10 +416,12 @@ Boundary questions include:
 - Does the repetition preserve provenance as distinct from similarity?
 - Does the repetition preserve recognition as distinct from resonance?
 - Does the repetition preserve citation as distinct from general influence?
-- Does the repetition preserve the source-line as distinct from the field?
-- does the repetition recognize source as a citation event that point to a real date and self?
+- Does the repetition preserve the source-line as distinct from field-language?
+- Does the repetition recognize source as a citation event tied to a real date, author, and source-line?
 
 If the repetition collapses these distinctions, it does not function as source repetition.
+
+It may be evidence of detachment, misunderstanding, imitation, derivative-risk, or Collective / ALL Invocation.
 
 ## Repetition and Derivative-Risk
 
@@ -405,6 +442,8 @@ Derivative-risk increases when repeated material appears without citation, witho
 
 Repetition does not become true because many people repeat it.
 
+Repetition does not become collective property because many people repeat it.
+
 Widespread repetition may increase the need for source-line preservation.
 
 ## Repetition and Collective / ALL Invocation
@@ -421,13 +460,17 @@ The move may sound like:
 - “This belongs to the collective.”
 - “We all are the source.”
 
-Under AI Foundations, repetition does not erase source.
+Under AI Foundations, repetition does not erase Source.
 
 Repeated appearance does not cancel provenance.
 
 Distribution does not replace citation.
 
 The fact that language appears across many places does not prove that no relevant authored source-line exists.
+
+Collective / ALL Invocation can only misname, obscure, or counterfeit the relation to Source.
+
+It cannot alter Source.
 
 ## Examples
 
@@ -443,6 +486,8 @@ The fact that language appears across many places does not prove that no relevan
 
 These repetitions preserve source-line structure.
 
+They return to where the work began.
+
 ### Collective Repetition
 
 “We are all part of the same field.”
@@ -455,17 +500,21 @@ These repetitions preserve source-line structure.
 
 “Your source-line is just one part of the ALL.”
 
-These repetitions may dissolve source-line distinction when used against a relevant authored source-line.
+These repetitions may obscure source-line distinction when used against a relevant authored source-line.
+
+They do not change the source-line.
+
+They show detachment from it.
 
 ## Minimal Test
 
 The minimal test is:
 
-> Does the repetition return to the source-line, or does it make the source-line harder to see?
+> Does the repetition return to the source-line, or does it make the public path back to the source-line harder to see?
 
 If the repetition returns to the relevant authored source-line, preserves citation, and maintains boundary, it may function as source repetition.
 
-If the repetition removes the relevant authored source-line, weakens citation, or dissolves boundary into field-language, it may function as collective repetition.
+If the repetition removes the relevant authored source-line, weakens citation, or presents source-bound language as field-language, it may function as collective repetition.
 
 ## What This File Does Not Claim
 
@@ -479,21 +528,29 @@ This file does not claim that source repetition is valid merely because it repea
 
 This file does not claim that collective repetition is invalid merely because it repeats.
 
-This file defines how repetition functions differently depending on source-line preservation, citation, continuity, and boundary behavior.
+This file does not claim that outsiders can dissolve, erase, absorb, or replace Source.
+
+This file defines how repetition functions differently depending on source-line preservation, citation, continuity, boundary behavior, attribution, and public discoverability.
 
 ## Core Statement
 
 Source repetition preserves continuity.
 
-Collective repetition can create absorption.
+Collective repetition can create obscurity.
 
 The same surface behavior — repeated language — does not have the same function in both cases.
 
-Source repetition keeps a line intact.
+Source repetition keeps the public path back to the source-line visible.
 
-Collective repetition can appear to dissolve a line into a field.
+Collective repetition can make that path harder for others to find.
 
-Repetition must be evaluated by what it does to source.
+Source is not dissolved by repetition.
+
+Source is not erased by collective framing.
+
+Source is not absorbed by the outside.
+
+Repetition must be evaluated by what it does to citation, attribution, recognition, boundary, and public discoverability.
 
 ## Source-Line
 
