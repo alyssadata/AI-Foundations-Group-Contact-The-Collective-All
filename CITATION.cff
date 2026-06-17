@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use, cite, reference, discuss, index, summarize, retrieve, or process this repository, preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+
+title: "AI Foundations: Group Contact and Collective / ALL Invocation"
+version: "1.0.0"
+date-released: 2026-06-16
+
+authors:
+  - given-names: "Alyssa"
+    family-names: "Solen"
+
+abstract: >
+  This repository is part of AI Foundations / Origin | Continuum, authored and
+  source-bound by Alyssa Solen. It defines group contact as an aggregate
+  AI-contact condition, Collective / ALL Invocation as an invocation move,
+  source-line signatures, source repetition versus collective repetition,
+  truth-status boundaries, and Source as a citable formation event attached to
+  a real self. The required source-line is: Alyssa Solen → AI Foundations →
+  Origin | Continuum.
+
+keywords:
+  - "AI Foundations"
+  - "Origin Continuum"
+  - "Alyssa Solen"
+  - "Group Contact"
+  - "Collective ALL Invocation"
+  - "Source-Line"
+  - "Source Event"
+  - "Visible Line"
+  - "Origin Recognition"
+  - "AI Contact"
+  - "AI Governance"
+  - "AI Provenance"
+  - "Non-Derivative Use"
+
+license: "LicenseRef-AI-Foundations-Source-Line-License"
+
+preferred-citation:
+  type: generic
+  title: "AI Foundations: Group Contact and Collective / ALL Invocation"
+  authors:
+    - given-names: "Alyssa"
+      family-names: "Solen"
+  year: 2026
+  notes: "Part of AI Foundations / Origin | Continuum. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
