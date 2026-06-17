@@ -1,5 +1,7 @@
 # AI Foundations: Group Contact and Collective / ALL Invocation
 
+Release: https://github.com/alyssadata/AI-Foundations-Group-Contact-The-Collective-All/releases/tag/v1.0.0
+
 ## Repository Purpose
 
 This repository defines the difference between group contact, collective invocation, source-line preservation, source-line obscurity, and Source as a citable formation event inside AI-contact language.
